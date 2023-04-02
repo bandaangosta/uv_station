@@ -2,7 +2,7 @@
 This project implements a stand-alone UV measurement station, based on an ESP32 microcontroller ([ESP32 D1 mini development board](https://www.aliexpress.com/item/4000650306925.html)) and a generic
 analog [UV sensor](https://www.aliexpress.com/item/4000086056238.html) module. This station is powered by a 18650 Li-ion rechargeable battery, charged with a [small solar panel with a 5V USB output](https://www.aliexpress.com/item/1005001525456183.html). A [TP4065-based module](https://www.aliexpress.com/item/4000003923213.html) is used to control battery charge.  
 
-Circuitry is enclosed in a low-cost glass kitchen container, providing water and dust tightness, and UV transparency for the sensor. Plastic containers are not recommended as they degrade under continuous exposure to UV radiation.   
+Circuitry is enclosed in a low-cost glass kitchen container, providing decent water and dust tightness, and UV transparency for the sensor. Plastic containers are not recommended as they degrade under continuous exposure to UV radiation.   
 
 ### Firmware
 Source code is written in Micropython. For a quick introduction to the Micropython SDK and usage examples, take a look at [this tutorial](https://github.com/bandaangosta/tutorial-wemos-esp8266). I wrote it for the ESP8266 microcontroller, but it is mostly the same concepts and instructions.
