@@ -26,7 +26,7 @@ import config_writer
 config_writer.create_config()
 ```
 
-`config_adc.py` will be writter to disk containing calibration parameters.
+`config_adc.py` will be written to disk containing calibration parameters.
 
 ### Bill of materials
 
@@ -40,4 +40,4 @@ config_writer.create_config()
 
 ### Pictures
 
-Some pictures have been included the [photos](docs/photos/). They are just for reference. Don't pay attention to the crude nature of the setup. This was a hasty proof-of-concept implementation, but it worked quite nicely. 
+Some pictures have been included the [photos directory](docs/photos/). They are just for reference. Don't pay attention to the crude nature of the setup. This was a hasty proof-of-concept implementation, but it worked quite nicely. 
