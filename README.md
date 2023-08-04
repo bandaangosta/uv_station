@@ -40,4 +40,4 @@ config_writer.create_config()
 
 ### Pictures
 
-Some pictures have been included the [photos directory](docs/photos/). They are just for reference. Don't pay attention to the crude nature of the setup. This was a hasty proof-of-concept implementation, but it worked quite nicely. 
+Some pictures have been included in the [photos directory](docs/photos/). They are just for reference. Don't pay attention to the crude nature of the setup. This was a hasty proof-of-concept implementation, but it worked quite nicely. 
